@@ -1,5 +1,5 @@
 [PolySynth] by Ph0noX
-My first serious diy electronics project attempt to build an analog polyphonic synthesizer.
+/*My first serious diy electronics project attempt to build an analog polyphonic synthesizer.*/
 -------------------------------------------------------------------------------------------
 Arduino/MCU based synthesizer (Teensy LC, Teensy 3.2)
 MIDI USB-Host (support USB-MIDI keyboard/controllers)
