@@ -1,6 +1,5 @@
-[PolySynth] by Ph0noX
-/*My first serious diy electronics project attempt to build an analog polyphonic synthesizer.*/
--------------------------------------------------------------------------------------------
+<b>[PolySynth] by Ph0noX</b>
+My first serious diy electronics project attempt to build an analog polyphonic synthesizer.
 Arduino/MCU based synthesizer (Teensy LC, Teensy 3.2)
 MIDI USB-Host (support USB-MIDI keyboard/controllers)
 CV/Gate in/out (ctrl/sync Korg Monotron / Gakken SX-150 analog synths)
