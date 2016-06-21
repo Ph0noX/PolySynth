@@ -10,5 +10,5 @@ Serial and (usb)MIDI parameter control via USB Serial Monitor.
 Multi parameter control w/ rotary encoders
 Display parameters, status via led matrix and neopixel leds.
 Analog VCF: Active low-pass filter (w/ adjustable cutoff & resonance)
-VCA Envelope, Delay features
--------------------------------------------------------------------------------------------
+VCA Envelope, Delay features.
+/* Ph0noX 2016 */
